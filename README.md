@@ -1,4 +1,4 @@
-<h2 align="center">HEY, I'M <a href="https://github.com/Ronik22" style='color:#53CCEC'>RᏫNIK</a> &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">HEY, I'M RᏫNIK &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 </p>
 
-<br>
+
 
 <h2>🛠&nbsp;My Tech Stack</h2>
 
