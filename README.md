@@ -10,9 +10,17 @@
 
 <p align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF&link=https://www.linkedin.com/in/ronikb22/)](https://www.linkedin.com/in/ronikb22/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffa0?style=for-the-badge&logo=gmail&logoColor=E34133&link=mailto:ronikbhattacharjee22112000@gmail.com)](mailto:ronikbhattacharjee22112000@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-ffffa0?style=for-the-badge&logo=twitter&logoColor=4C9BE5&link=https://twitter.com/Ronik_DVR)](https://twitter.com/Ronik_DVR)
+<a href="https://www.linkedin.com/in/ronikb22/">
+    <img src="https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF" />
+</a>
+              
+<a href="mailto:ronikbhattacharjee22112000@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-ffffa0?style=for-the-badge&logo=gmail&logoColor=E34133" />
+</a>
+              
+<a href="https://twitter.com/Ronik_DVR">
+    <img src="https://img.shields.io/badge/-Twitter-ffffa0?style=for-the-badge&logo=twitter&logoColor=4C9BE5" />
+</a>
 
 </p>
 
