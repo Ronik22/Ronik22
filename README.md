@@ -2,13 +2,6 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Sophomore at RCCIIT%20-%23F7DF1E.svg?style=flat-square&color=9b1cef" />
-    <img src="https://img.shields.io/badge/Aspiring Full Stack Developer%20-%23F7DF1E.svg?style=flat-square&color=9b1cef" />
-    <img src="https://img.shields.io/badge/ML enthusiast%20-%23F7DF1E.svg?style=flat-square&color=9b1cef" />
-</p>
-
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/ronikb22/">
     <img src="https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF" />
