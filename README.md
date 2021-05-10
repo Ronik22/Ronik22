@@ -55,3 +55,5 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronik22&hide=VBScript&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=Ronik22&style=flat-square)
