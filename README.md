@@ -49,6 +49,8 @@
 <h2>⚙️&nbsp;Github Analytics</h2>
 
 <div>
+    
+![](https://komarev.com/ghpvc/?username=Ronik22&style=flat-square)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ronik22&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" />
 
@@ -56,4 +58,4 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=Ronik22&style=flat-square)
+
