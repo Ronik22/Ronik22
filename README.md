@@ -19,7 +19,7 @@
 
 
 
-<h2>🛠&nbsp;My Tech Stack</h2>
+<h2><img src="https://img.icons8.com/glyph-neue/32/fa314a/administrative-tools.png"/>&nbsp;My Tech Stack</h2>
 
 <p>Here are a few things I've picked up along my learning journey</p>
 
@@ -41,12 +41,15 @@
     <img src="https://img.shields.io/badge/Fast%20API%20-%23F7DF1E.svg?&style=for-the-badge&color=009485&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/GCP%20-%23F7DF1E.svg?&style=for-the-badge&color=E34133&logo=google%20cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery%20-%23F7DF1E.svg?&style=for-the-badge&color=0769AD&logo=jquery&logoColor=white" />
 </p>
 
 
 <br>
 
-<h2>⚙️&nbsp;Github Analytics</h2>
+<h2><img src="https://img.icons8.com/ios-glyphs/32/4a90e2/analytics.png"/>&nbsp;Github Analytics</h2>
 
 <div>
     
