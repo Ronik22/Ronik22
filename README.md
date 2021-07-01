@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF" />
 </a>
               
-<a href="mailto:ronikbhattacharjee22112000@gmail.com">
+<a href="mailto:dvorak22112000@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-ffffa0?style=for-the-badge&logo=gmail&logoColor=E34133" />
 </a>
               
