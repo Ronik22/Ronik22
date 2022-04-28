@@ -36,13 +36,13 @@
     <img src="https://img.shields.io/badge/SQLite%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=abf&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/%20-%23F7DF1E.svg?&style=for-the-badge&color=6633ff&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=8D6748&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Fast%20API%20-%23F7DF1E.svg?&style=for-the-badge&color=009485&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/GCP%20-%23F7DF1E.svg?&style=for-the-badge&color=E34133&logo=google%20cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/OracleDB%20-%23F7DF1E.svg?&style=for-the-badge&color=E34133&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery%20-%23F7DF1E.svg?&style=for-the-badge&color=0769AD&logo=jquery&logoColor=white" />
 </p>
 
