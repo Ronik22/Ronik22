@@ -1,4 +1,4 @@
-<h2 align="center">HEY, I'M RᏫNIK &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">HEY, I'M RᏫNIK &nbsp;👋</h2>
 
 
 <p align="center">
