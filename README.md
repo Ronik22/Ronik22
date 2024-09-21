@@ -7,10 +7,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF" />
 </a>
               
-<a href="mailto:dvorak22112000@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-ffffa0?style=for-the-badge&logo=gmail&logoColor=E34133" />
-</a>
-              
 <a href="https://twitter.com/Ronik_DVR">
     <img src="https://img.shields.io/badge/-Twitter-ffffa0?style=for-the-badge&logo=twitter&logoColor=4C9BE5" />
 </a>
